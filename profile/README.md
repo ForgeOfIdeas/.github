@@ -20,7 +20,7 @@ F O R G E   O F   I D E A S
 
 ---
 
-We are a collective focused on building **thoughtful software** — tools and systems designed with intention, built to last.
+We are a collective focused on building **thoughtful software** tools and systems designed with intention, built to last.
 
 We value clarity over complexity, depth over noise, and craft over convenience.
 
@@ -38,7 +38,7 @@ We value clarity over complexity, depth over noise, and craft over convenience.
 
 > *Simple. Purposeful. Enduring.*
 
-We ship code that we're proud of — not because it's clever, but because it's clear.
+We ship code that we're proud of not because it's clever, but because it's clear.
 
 <br/>
 
